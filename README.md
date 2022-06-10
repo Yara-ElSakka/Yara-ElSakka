@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yara-ElSakka , I am 8 Years old in Grade 2.
+- 👋 Hi, I’m @Yara-ElSakka , I am 8 Years old in Grade 3.
 - 👀 I’m interested in coding, video games, rubik's cube and chess :)
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on basic Python games development.
